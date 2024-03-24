@@ -1,0 +1,45 @@
+
+
+.des-footer{
+  background-color: rgb(227, 227, 227);
+  width: 100%;
+  height: 8%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  padding: 4% 0;
+  background-color: white;
+}
+.des-footer .link-footer{
+  
+  color: gray;
+  padding: 0 0;
+  font-size: 18px;
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  
+}
+.del_line{
+text-decoration: none;
+}
+.div1-footer,.div2-footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+}
+.div2-footer p{
+  color: black;
+}
+.div2-footer {
+  margin: 2% 0;
+}
+
+
+ 
